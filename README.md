@@ -1,1 +1,3 @@
 # docker-squid-go-get-s3-object-version
+
+this is not intended for direct usage. instead sub-build this image to configure squid, add an entrypoint script, etc...
