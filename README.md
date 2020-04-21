@@ -1,0 +1,1 @@
+# docker-squid-go-get-s3-object-version
